@@ -19,6 +19,10 @@ Peer-to-Peer Academic Support Platform for UMPSA Students
    - [Engagement Metrics](#engagement-metrics)
 6. [Target Market](#target-market)
 7. [Competitive Advantage](#competitive-advantage)
+8. [🎨 Design & Prototypes & Slide](#-design--prototypes--slide)
+   - [Figma Workspace](#figma-workspace)
+   - [Prototypes](#prototypes)
+   - [Canva Presentation](#canva-presentation)
 
 
 # 🎯 Group Name & Track
@@ -132,3 +136,17 @@ Competitive Advantage: First comprehensive gamified tutoring platform for Malays
 3. Affordable: Significantly lower costs than traditional tutoring
 4. Gamified: Engaging learning experience with social elements
 5. Multi-Language: Supports Malaysia's multilingual education environment
+
+# 🎨 Design & Prototypes & Slide
+## Figma Workspace
+[Feature 1 - Smart Tutor Matching System](https://www.figma.com/design/6HeYmyk9Jb6f3khQeIijBQ/Smart-Peer?node-id=63-267&t=wVYfFVkhwQetZ0AS-1)
+[Feature 2 - Malaysian Academic Navigator](https://www.figma.com/design/Stg2YmVzVYX7ZiL13DbzT2/Feature-3?node-id=0-1&t=xZLEScxR6Upf2P6o-1)
+[Feature 3 - EduGamify](https://www.figma.com/design/sduzuil1fnD5GSb7wBjSUk/EduGamify?node-id=0-1&t=rsGdeGhRuVEGcbeT-1)
+
+## Prototypes
+[Feature 1 - Smart Tutor Matching System](https://www.figma.com/proto/6HeYmyk9Jb6f3khQeIijBQ/Smart-Peer?page-id=0%3A1&node-id=63-267&viewport=-183%2C277%2C0.76&t=nrdeGnGj4arBC3ku-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=63%3A267)
+[Feature 2 - Malaysian Academic Navigator](https://www.figma.com/proto/Stg2YmVzVYX7ZiL13DbzT2/Feature-3?page-id=0%3A1&node-id=24-156&p=f&viewport=210%2C479%2C0.62&t=B41NAA3aaZ2mS3za-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=24%3A156)
+[Feature 3 - EduGamify](https://www.figma.com/proto/sduzuil1fnD5GSb7wBjSUk/EduGamify?page-id=0%3A1&node-id=25-1973&p=f&viewport=288%2C971%2C0.61&t=BnhljpBT9qKaPuxf-1&scaling=min-zoom&content-scaling=fixed)
+
+## Canva Presentation
+[EduBond Canva Slide](https://www.canva.com/design/DAGyTKnyPiE/kcRug3MaHuwlR1IKt3o0Ug/edit?utm_content=DAGyTKnyPiE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
