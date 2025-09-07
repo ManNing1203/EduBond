@@ -1,6 +1,26 @@
 # EduBond
 Peer-to-Peer Academic Support Platform for UMPSA Students
 
+# Table of Contents
+1. [🎯 Group Name & Track](#-group-name--track)
+2. [Problem Statement](#problem-statement)
+   - [Core Problems](#core-problems)
+3. [Supporting Evidence](#supporting-evidence)
+   - [Financial Constraints](#financial-constraints)
+   - [System Fragmentation](#system-fragmentation)
+   - [Peer Learning Gap](#peer-learning-gap)
+4. [Key Features](#key-features)
+   - [Feature 1: Smart Tutor Matching System](#feature-1-smart-tutor-matching-system)
+   - [Feature 2: Malaysian Academic Navigator](#feature-2-malaysian-academic-navigator)
+   - [Feature 3: EduGamify - Gamified Learning Experience](#feature-3-edugamify---gamified-learning-experience)
+5. [Success Metrics](#success-metrics)
+   - [Academic Impact](#academic-impact)
+   - [Economic Impact](#economic-impact)
+   - [Engagement Metrics](#engagement-metrics)
+6. [Target Market](#target-market)
+7. [Competitive Advantage](#competitive-advantage)
+
+
 # 🎯 Group Name & Track
 Coding Clubhouse. Student Lifestyle Track
 
