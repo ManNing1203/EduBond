@@ -23,7 +23,7 @@ Peer-to-Peer Academic Support Platform for UMPSA Students
    - [Figma Workspace](#figma-workspace)
    - [Prototypes](#prototypes)
    - [Canva Presentation](#canva-presentation)
-
+9. [Youtube Link](#youtube-link)
 
 # 🎯 Group Name & Track
 Coding Clubhouse. Student Lifestyle Track
@@ -150,3 +150,6 @@ Competitive Advantage: First comprehensive gamified tutoring platform for Malays
 
 ## Canva Presentation
 [EduBond Canva Slide](https://www.canva.com/design/DAGyTKnyPiE/kcRug3MaHuwlR1IKt3o0Ug/edit?utm_content=DAGyTKnyPiE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+# Youtube Link
+[EduBond Youtube Link](https://youtu.be/_6UOSSHyQ9I)
