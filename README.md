@@ -41,7 +41,7 @@ Malaysian university students, particularly at UMPSA, face significant barriers 
 
 # Key Features
 ## Feature 1: Smart Tutor Matching System
-## "Find Your Perfect Academic Peer"
+### "Find Your Perfect Academic Peer"
 
 Students can find tutors by selecting:
 - Subject and faculty for specific filtering
@@ -62,7 +62,7 @@ Tutor Dashboard:
 - Earnings tracking and performance analytics
 
 ## Feature 2: Malaysian Academic Navigator
-## "Local Education System Expert"
+### "Local Education System Expert"
 
 Revolutionary feature designed specifically for Malaysian higher education:
 - Support for STPM, Matriculation, A-Levels, Foundation, Diploma pathways
@@ -73,7 +73,7 @@ Revolutionary feature designed specifically for Malaysian higher education:
 Competitive Advantage: First platform comprehensively addressing Malaysian academic system complexity.
 
 ## Feature 3: EduGamify - Gamified Learning Experience
-## "Making Learning Addictive"
+### "Making Learning Addictive"
 
 Gamification system to increase engagement:
 - For Tutors: XP and badges for effective teaching, quality ratings
